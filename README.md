@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **itwanger/itwanger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+👋 Hi, 我是[二哥](https://itwanger.com)呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
 
-###  :man_technologist:  [沉默王二](https://itwanger.com)，[JavaBooks | Java 经典书单](https://github.com/itwanger/JavaBooks)
-
-👋 Hi, 我是二哥呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
+初次见面，送你一份[**计算机经典书单吧，附下载地址**](https://mp.weixin.qq.com/s/ExjM-xdqMFFY1NIZffz-Ng)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
