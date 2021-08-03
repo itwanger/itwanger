@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, 我是[二哥](https://itwanger.com)呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
+👋 Hi, 我是[二哥](https://itwanger.com)呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写得风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
 
 初次见面，送你一份[**计算机经典书单吧，附下载地址**](https://mp.weixin.qq.com/s/ExjM-xdqMFFY1NIZffz-Ng)
 
