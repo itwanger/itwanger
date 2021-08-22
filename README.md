@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 
 
 
-#### - [《教妹学 Java》专栏](https://github.com/itwanger/jmx-java) ⭐⭐⭐⭐⭐
+#### - [《Java 程序员进阶之路》专栏](https://github.com/itwanger/jmx-java) ⭐⭐⭐⭐⭐
 
->听起来就很有趣吧，目前已更新 49 讲，共计 11.5 万字，还在连载中。该专栏独具一格，通过二哥和三妹对话的形式循序渐进，对 Java 初学者极其友好，获得了许多读者的感谢和认可。每一节都配有实践验证的源码，可以对照着一起撸才更有感觉！
+>目前已更新 52 讲，共计 11.5 万字，还在连载中。该专栏独具一格，通过二哥和三妹对话的形式循序渐进，对 Java 初学者极其友好，获得了许多读者的感谢和认可。每一节都配有实践验证的源码，可以对照着一起撸才更有感觉！
 
 #### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐⭐
 
