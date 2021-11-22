@@ -53,14 +53,6 @@ Here are some ideas to get you started:
 
 >Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
 
-#### - [GitHub 星标 115k+的 Java 教程](https://mp.weixin.qq.com/s/d7Z0QoChNuP9bTwAGh2QCw) ⭐⭐⭐
-
->GitHub 上星标 115k+ 的 Java 教程，里面涵盖了 Java 所有的知识点，包括 Java 语法、Java 集合框架、Java IO、Java 并发编程和 Java 虚拟机，内容不多，只讲重点。
-
-#### - [《Web 全栈开发进阶之路》](https://item.jd.com/12510221.html) ⭐⭐⭐
-
->本书是作者`沉默王二`，《Web全栈开发进阶之路》读起来轻松惬意，颇具王小波风趣幽默的写作风格，是一本彻底摆脱枯燥乏味的面向Web全栈开发的经典书籍。我敢打赌，当你在读这本书的时候，就像在读一本小说，生动有趣；当你用这本书进行实际编程时，就像有一位良师在侧指导，轻松简单。
-
 ### Wait for you
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
