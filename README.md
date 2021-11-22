@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 #### - [《Java 程序员进阶之路》专栏](https://github.com/itwanger/toBeBetterJavaer) ⭐⭐⭐⭐⭐
 
->目前已更新 66 讲，共计 16.5 万字，还在连载中。该专栏独具一格，通过二哥和三妹对话的形式循序渐进，对 Java 初学者极其友好，获得了许多读者的感谢和认可。每一节都配有实践验证的源码，可以对照着一起撸才更有感觉！
+>Java 程序员进阶之路，该专栏风趣幽默、通俗易懂，对 Java 爱好者极度友好和舒适😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）等核心知识点。
 
 #### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐⭐
 
