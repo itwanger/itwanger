@@ -43,11 +43,13 @@ Here are some ideas to get you started:
 
 ### My Books
 
+#### - [Java 程序员进阶之路](https://github.com/itwanger/toBeBetterJavaer) ⭐⭐⭐⭐⭐
 
+>一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
 
-#### - [《Java 程序员进阶之路》专栏](https://github.com/itwanger/toBeBetterJavaer) ⭐⭐⭐⭐⭐
+#### - [编程喵喵🐱Spring Boot+Vue前后端分离项目](https://github.com/itwanger/coding-more) ⭐⭐⭐⭐⭐
 
->Java 程序员进阶之路，该专栏风趣幽默、通俗易懂，对 Java 爱好者极度友好和舒适😄，内容包括但不限于 Java 基础、Java 集合框架、Java IO、Java 并发编程、Java 虚拟机、Java 企业级开发（SSM、Spring Boot）等核心知识点。
+>一套成熟的学习教程网站，包括前台网站内容展示系统，以及后台网站内容管理系统，采用时下最流行的 Spring Boot + Vue 的前后端分离架构。前台展示系统包括首页门户、文章展示、文章搜索、文章推荐等等模块。后台管理系统包括文章管理、统计报表、权限管理等模块。
 
 #### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐⭐
 
