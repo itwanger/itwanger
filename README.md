@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, 我是[二哥](https://itwanger.com)呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写得风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
+👋 Hi, 我是二哥呀, 一枚 Java 后端程序员，我这个废柴，既可以把程序人生写得风趣幽默，也可以把技术文章写得通俗易懂 🚀. 
 
 初次见面，送你一份[**计算机经典书单吧，附下载地址**](https://mp.weixin.qq.com/s/ExjM-xdqMFFY1NIZffz-Ng)
 
@@ -41,17 +41,21 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-### My Books
+### My Repositys
 
 #### - [Java 程序员进阶之路](https://github.com/itwanger/toBeBetterJavaer) ⭐⭐⭐⭐⭐
 
 >一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
 
-#### - [编程喵喵🐱Spring Boot+Vue前后端分离项目](https://github.com/itwanger/coding-more) ⭐⭐⭐⭐⭐
+#### - [技术派开源社区](https://github.com/itwanger/paicoding) ⭐⭐⭐⭐
+
+>一个基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等技术栈实现的社区系统，采用主流的互联网技术架构、全新的UI设计、支持一键源码部署，拥有完整的文章&教程发布/搜索/评论/统计流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发/实战的现代化社区项目👍
+
+#### - [编程喵喵🐱Spring Boot+Vue前后端分离项目](https://github.com/itwanger/coding-more) ⭐⭐⭐
 
 >一套成熟的学习教程网站，包括前台网站内容展示系统，以及后台网站内容管理系统，采用时下最流行的 Spring Boot + Vue 的前后端分离架构。前台展示系统包括首页门户、文章展示、文章搜索、文章推荐等等模块。后台管理系统包括文章管理、统计报表、权限管理等模块。
 
-#### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐⭐
+#### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐
 
 >Java 程序员常读书单整理，附下载地址，助力构建最强知识体系。但不限于 Java，包括设计模式、计算机网络、操作系统、数据库、数据结构与算法、大数据、架构、面试等等。
 
