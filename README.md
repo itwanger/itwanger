@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 
 >一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准Java 程序员进阶之路😄
 
-#### - [技术派开源社区](https://github.com/itwanger/paicoding) ⭐⭐⭐⭐
+#### - [技术派开源社区](https://github.com/itwanger/paicoding) ⭐⭐⭐⭐⭐
 
 >一个基于 Spring Boot、MyBatis-Plus、MySQL、Redis、ElasticSearch、MongoDB、Docker、RabbitMQ 等技术栈实现的社区系统，采用主流的互联网技术架构、全新的UI设计、支持一键源码部署，拥有完整的文章&教程发布/搜索/评论/统计流程等，代码完全开源，没有任何二次封装，是一个非常适合二次开发/实战的现代化社区项目👍
-
-#### - [编程喵喵🐱Spring Boot+Vue前后端分离项目](https://github.com/itwanger/coding-more) ⭐⭐⭐
-
->一套成熟的学习教程网站，包括前台网站内容展示系统，以及后台网站内容管理系统，采用时下最流行的 Spring Boot + Vue 的前后端分离架构。前台展示系统包括首页门户、文章展示、文章搜索、文章推荐等等模块。后台管理系统包括文章管理、统计报表、权限管理等模块。
 
 #### - [Java 经典书单，附下载地址](https://github.com/itwanger/JavaBooks) ⭐⭐⭐
 
