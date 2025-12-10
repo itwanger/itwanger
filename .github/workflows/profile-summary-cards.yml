@@ -1,22 +1,31 @@
-name: GitHub Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
-  # 每天凌晨 1 点（UTC）执行一次
   schedule:
-    - cron: "0 17 * * *"  # 北京时间 1 点 = UTC 17 点
-  # 手动触发
+    # 每天北京时间 1 点跑一次（UTC 17 点）
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate
+    name: generate-github-profile-summary-cards
+
+    # 允许这个 workflow 对仓库内容有写权限
+    permissions:
+      contents: write
 
     steps:
       - uses: actions/checkout@v4
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # 用你刚才配的那个 PAT
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
         with:
-          USERNAME: itwanger
-          # 你也可以自定义主题，比如 dracula / solarized / github 等
-          # 默认是 "default"
+          # 直接用仓库 owner，也就是 itwanger
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          # 默认 true，会自动 git add + commit + push
+          AUTO_PUSH: true
