@@ -17,26 +17,7 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/itwanger/itwanger/main/avatar-circle.png" width="120" />
-  <h3>写代码、写段子、写生活的程序员王二</h3>
-  <em>把复杂技术说人话，把干巴知识讲有趣。</em>
-</div>
-
 [![沉默王二的 GitHub](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/itwanger)
-![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/3-stats.svg)
-
-### 🔥 Featured Projects
-
-| 项目 | 描述 | 技术 |
-|------|------|------|
-| [技术派 Paicoding](https://github.com/itwanger/paicoding) | 全网最强 Java 社区实战项目之一，深度结合前后端分离架构 | Spring Boot · MyBatis-Plus · ES · Redis |
-| [PmHub](https://github.com/laigeoffer/pmhub) | 基于 SpringCloud & LLM 的智能化项目管理平台 | Spring Cloud · RocketMQ · Nacos · LLM |
-| [派聪明 RAG](https://github.com/itwanger/paicongming) | 一个真正能落地、能商用的 AI 知识库系统 | Spring AI · LangChain · ES |
-
----
 
 ### About Me
 
@@ -46,17 +27,11 @@ Here are some ideas to get you started:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** 微信：qing_gee ｜ 公众号：沉默王二
 
-
-![Java](https://img.shields.io/badge/Java-Expert-orange)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-Lover-green)
-![OpenSource](https://img.shields.io/badge/Open%20Source-%E7%88%B1%E6%83%85-blue)
-![公众号](https://img.shields.io/badge/%E6%B2%89%E9%BB%98%E7%8E%8B%E4%BA%8C-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen)
-
 ### 📌 Recent Updates
 
 - ✨ 技术派持续优化代码结构，引入更多 AI 辅助功能
 - 🚀 派聪明 RAG 版本升级，支持更多 embeddings 模型
-- 📚 「Java 程序员进阶之路」持续更新高质量 Java 并发 & JVM 内容
+- 📚 「[二哥编程星球&Java进阶之路](https://javabetter.cn/zhishixingqiu/)」持续更新高质量实战项目，派聪明 RAG（Go/Java）
 
 ### My Repositories
 
