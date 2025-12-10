@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![沉默王二的 GitHub](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/itwanger)
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/0-profile-details.svg)
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/3-stats.svg)
 
 
 ### About
@@ -30,14 +33,11 @@ Here are some ideas to get you started:
 -  **Contact me :** 微信：qing_gee
 
 
-### Languages and Tools
+![Java](https://img.shields.io/badge/Java-Expert-orange)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-大师-green)
+![OpenSource](https://img.shields.io/badge/Open%20Source-%E7%88%B1%E6%83%85-blue)
+![公众号](https://img.shields.io/badge/%E6%B2%89%E9%BB%98%E7%8E%8B%E4%BA%8C-%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ### My Repositys
 
