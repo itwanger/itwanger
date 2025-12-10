@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![沉默王二的 GitHub](https://github-readme-stats.vercel.app/api?username=itwanger&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/itwanger)
+[![沉默王二的 GitHub](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/itwanger)
+
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/github/2-most-commit-language.svg)
 
 
 ### About
