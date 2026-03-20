@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/itwanger/itwanger/main/profile-summary-card-output/city_lights/4-productive-time.svg)
+```
+
+    
